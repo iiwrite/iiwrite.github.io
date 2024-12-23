@@ -6,6 +6,10 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
+- type: instagram
+  icon: fab fa-instagram
+  noblank: true # Set to true if you don't want the link to open in a new tab
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
