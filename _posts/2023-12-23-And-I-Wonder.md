@@ -1,7 +1,7 @@
 ---
 title: "And I wonder"
 date: 2024-12-23 
-catogories: [poetry]
+catogories: [poetry, vlog]
 tags: [poetry, anxiety]
 author: [Subekshya]
 ---
