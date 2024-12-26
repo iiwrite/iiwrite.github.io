@@ -2,7 +2,7 @@
 title: "And I wonder"
 date: 2024-12-23 
 catogories: [short story]
-tags: [poetry, anxiety]
+tags: [short story, love, ]
 author: [Subekshya]
 ---
 It was our first date as lovers, not friends. I had fantasized about this day every day for the past few months, over and over again but it was nothing as I pictured. After all, it was an imagery envisioned by a coward as if it were a lion. We met at a park at an altitude from where the clouds seemed closer than the city sprawling below. We exchanged awkward greetings as if we met for the first time rather than two people who’d known each other for over a year. As we walked towards the cliff to sit on, we began to have light conversations. Neither of us dared to hold the other’s gaze for long.
