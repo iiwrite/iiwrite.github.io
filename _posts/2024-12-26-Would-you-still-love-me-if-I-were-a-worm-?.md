@@ -1,5 +1,5 @@
 ---
-title: "And I wonder"
+title: "Would you still love me if I were a worm?"
 date: 2024-12-23 
 catogories: [short story]
 tags: [short story, love, ]
